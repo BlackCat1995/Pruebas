@@ -11,3 +11,4 @@ public class piramide {
     }
   }
 }
+public class piramide2 
