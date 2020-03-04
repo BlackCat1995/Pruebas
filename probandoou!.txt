@@ -1,1 +1,1 @@
-main akali
+main akali = jon lopez
